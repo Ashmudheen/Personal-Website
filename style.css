@@ -61,3 +61,6 @@ a:hover{
     width: 100px;
     
 }
+body{
+overflow-x: hidden;
+}
