@@ -1,0 +1,62 @@
+.main-h{
+    font-family: 'Tangerine', cursive;
+    font-weight: 800;
+    font-size: 64px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+#sps:hover{
+   
+    transform: scale(1.2);
+  
+}
+
+.grad{
+    background: linear-gradient( #ccccb3,#e0e0d1);
+    color: rgba(0,0,0,.5);
+}
+.grad1{
+    background: linear-gradient(#e0e0d1, #ffffff);
+
+}
+a{
+    text-decoration: none;
+    color: rgba(0,0,0,.5);
+    
+    
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+    transform: scale(1.2);
+}
+.grad2{
+    background: linear-gradient(#ffffff,#e0e0d1);
+}
+.grad3{
+    background: linear-gradient(#e0e0d1,#ccccb3 );
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    scale: 1;
+}
+.btn{
+    border: none;
+   
+}
+.btn:hover{
+    text-decoration: none;
+    color: black;
+    transform: scale(1.5);
+}
+.image-size{
+    height: 100px;
+    width: 100px;
+    
+}
