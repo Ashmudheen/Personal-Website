@@ -12,7 +12,11 @@
 
 html{
     scroll-behavior: smooth;
+<<<<<<< HEAD
 
+=======
+    Margin: 0
+>>>>>>> 939efa31c186496364120e9519223fd9494a114d
 }
 #sps:hover{
    
@@ -68,6 +72,7 @@ a:hover{
     
     
 }
+<<<<<<< HEAD
 .para2{
     font-family: 'Caveat', cursive;
 
@@ -75,3 +80,8 @@ a:hover{
     
 }
 
+=======
+body{
+overflow-x: hidden;
+}
+>>>>>>> 939efa31c186496364120e9519223fd9494a114d
