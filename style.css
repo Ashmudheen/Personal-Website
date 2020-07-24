@@ -4,6 +4,7 @@
     font-weight: 800;
     font-size: 64px;
 }
+
 .para{
     font-family: 'Tangerine', cursive;
     font-weight: bolder;
@@ -12,11 +13,6 @@
 
 html{
     scroll-behavior: smooth;
-<<<<<<< HEAD
-
-=======
-    Margin: 0
->>>>>>> 939efa31c186496364120e9519223fd9494a114d
 }
 #sps:hover{
    
@@ -25,11 +21,11 @@ html{
 }
 
 .grad{
-    background: linear-gradient( #ccccb3,#e0e0d1);
+    background: linear-gradient( #aaaaaa,#d8d4d4);
     color: rgba(0,0,0,.5);
 }
 .grad1{
-    background: linear-gradient(#e0e0d1, #ffffff);
+    background: linear-gradient(#d8d4d4, #ffffff);
 
 }
 a{
@@ -44,10 +40,10 @@ a:hover{
     transform: scale(1.2);
 }
 .grad2{
-    background: linear-gradient(#ffffff,#e0e0d1);
+    background: linear-gradient(#ffffff,#d8d4d4);
 }
 .grad3{
-    background: linear-gradient(#e0e0d1,#ccccb3 );
+    background: linear-gradient(#d8d4d4,#aaaaaa );
 }
 .fa {
     padding: 20px;
@@ -72,7 +68,6 @@ a:hover{
     
     
 }
-<<<<<<< HEAD
 .para2{
     font-family: 'Caveat', cursive;
 
@@ -80,8 +75,3 @@ a:hover{
     
 }
 
-=======
-body{
-overflow-x: hidden;
-}
->>>>>>> 939efa31c186496364120e9519223fd9494a114d
